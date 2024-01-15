@@ -1,4 +1,4 @@
-package java_beak;
+package java_baek;
 
 public class test {
     public static void main(String[] args) {
