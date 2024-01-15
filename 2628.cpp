@@ -22,7 +22,7 @@ int biggest(vector<int> list, int total){
 }
 
 int main(void){
-    int width, length, number, w_paper, l_paper, count;
+    int width = 1, length = 1, number, w_paper, l_paper, count;
     vector<int> w_list, l_list;
     bool is_width;
 
