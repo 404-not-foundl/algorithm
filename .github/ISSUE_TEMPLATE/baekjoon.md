@@ -3,7 +3,7 @@ name: Baekjoon
 about: 'Question ::'
 title: ''
 labels: ''
-assignees: ''
+assignees: 404-not-foundl
 
 ---
 
